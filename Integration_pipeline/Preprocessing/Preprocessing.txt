@@ -1,0 +1,5 @@
+# preprocessing of datasets including:
+
+Changing to human gene symbols based on a Ensembl gene list
+
+Merging and Preprocessing of anndata objects + pre-scVI processing (HVG selection, etc.)
