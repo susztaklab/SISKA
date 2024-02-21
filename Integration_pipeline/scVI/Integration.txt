@@ -1,1 +1,7 @@
+The integration pipeline and hyperparameters were selected based on various runs optimizing the integration across species. The version we show here had the best performance considering an optimal balance of:
 
+- mixing of species for each cluster or cell type (if applicable - some cell types were underrepresented in some of the species. A signal that we also wanted to preserve)
+- preserving the known heterogeneous cellular architecture of the kidney including rare cell types 
+- Meaningful conserved cellular marker genes and functions across all species consistent with the literature and expert opinions
+
+While we also compared other integration tools, we learned that optimizing hyperparameters is as important as testing multiple integration tools. 
