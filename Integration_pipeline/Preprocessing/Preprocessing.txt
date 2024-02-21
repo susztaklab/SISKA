@@ -1,5 +1,13 @@
-# preprocessing of datasets including:
+# preprocessing of input seurat objects before final integration:
 
-Changing to human gene symbols based on a Ensembl gene list
+1.) Changing to human gene symbols based on an Ensembl gene list
 
-Merging and Preprocessing of anndata objects + pre-scVI processing (HVG selection, etc.)
+2.) Converting to anndata objects
+
+3.) Merging and Preprocessing of anndata objects + pre-scVI processing (HVG selection, etc.)
+
+4.) Integration Run 1
+
+5.) Cleaning
+
+6.) Preparing Integration Run 2 (final)
