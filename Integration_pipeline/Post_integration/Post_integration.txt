@@ -2,5 +2,5 @@ After integration processing included:
 
 - Annotation
 
-- Final Cleaning (doublet/ambient contamination with inconsitent marker expression, etc.)
+- Final Cleaning (doublet/ambient contamination with inconsitent marker expression, problematic outlier samples, etc.)
 
