@@ -10,4 +10,6 @@ Go to https://susztaklab.com/SISKA/ and select your species and gene of interest
 
 Go to https://susztaklab.com/rhge/ to compare gene expression coordination of cellular functions between rodent models and human diseases (beta).
 
+Go to https://github.com/kloetzerka/CellSpectra to learn about our R package CellSpectra (released soon...)
+
 
