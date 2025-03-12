@@ -1,6 +1,11 @@
 # Cross-Species Integrated Single-cell Kidney Atlas (SISKA)
 
-These are the codes related to our SISKA multi-species atlas. Download SISKA, the extended human disease-centered atlas, or any related file from our Zenodo Repository:
+These are the codes related to our SISKA multi-species atlas. 
+
+###Download the data here: 
+
+SISKA, the extended human disease-centered atlas, or any related file from our Zenodo Repository
+
 https://doi.org/10.5281/zenodo.15007208
 
 Go to "Integration Pipeline" to find the code used to generate SISKA and the extended human atlas.
