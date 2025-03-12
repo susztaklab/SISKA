@@ -1,6 +1,7 @@
 # Cross-Species Integrated Single-cell Kidney Atlas (SISKA)
 
-These are the codes related to our SISKA multi-species atlas. 
+These are the codes related to our SISKA multi-species atlas. Download SISKA, the extended human disease-centered atlas, or any related file from our Zenodo Repository:
+https://doi.org/10.5281/zenodo.15007208
 
 Go to "Integration Pipeline" to find the code used to generate SISKA and the extended human atlas.
 
@@ -65,7 +66,7 @@ After integration processing included:
 
 ### Atlas extension
 
-Additional published input data used for the extended human atlas was accessed via CELLxGENE (diabetic kidney disease, Wilson et al. 2022), GSE185948 (ADPKD), and the KPMP website (KPMP unpublished). An additional CKD dataset was recently published (Liu et al., Science 2025). Unpublished human snRNA-seq data from biopsies has been deposited in Zenodo (…).
+Additional published input data used for the extended human atlas was accessed via CELLxGENE (diabetic kidney disease, Wilson et al. 2022), GSE185948 (ADPKD), and the KPMP website (KPMP unpublished). An additional CKD dataset was recently published (Liu et al., Science 2025). Unpublished human snRNA-seq data from biopsies has been deposited in Zenodo (https://doi.org/10.5281/zenodo.15007208).
 
 1.) Preprocessing
 
