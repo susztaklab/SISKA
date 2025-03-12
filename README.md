@@ -1,12 +1,16 @@
-# Cross-Species Integrated Single-cell Kidney Atlas (SISKA)
+# Species-Integrated Single-cell Kidney Atlas (SISKA)
 
-These are the codes related to our SISKA multi-species atlas. 
+These are the codes related to our SISKA multi-species atlas. Please feel free to contact us or to open a new issue if you have any questions regarding SISKA or related topics.
 
 ### Download the data here: 
 
 SISKA, the extended human disease-centered atlas, or any related file from our Zenodo Repository
 
 https://doi.org/10.5281/zenodo.15007208
+
+### CellSpectra R Package: 
+
+https://github.com/kloetzerka/CellSpectra 
 
 ### Go to ... 
 
@@ -17,8 +21,6 @@ https://doi.org/10.5281/zenodo.15007208
 -> https://susztaklab.com/SISKA/ and select your species and gene of interest (beta).
 
 -> https://susztaklab.com/rhge/ to compare gene expression coordination of cellular functions between rodent models and human diseases (beta).
-
--> https://github.com/kloetzerka/CellSpectra to learn about our R package CellSpectra 
 
 ## Input datasets 
 
