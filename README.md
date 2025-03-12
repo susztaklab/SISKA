@@ -8,15 +8,17 @@ SISKA, the extended human disease-centered atlas, or any related file from our Z
 
 https://doi.org/10.5281/zenodo.15007208
 
-Go to "Integration Pipeline" to find the code used to generate SISKA and the extended human atlas.
+### Go to ... 
 
-Go to "Figures" to browse custom codes used to generate F1-F6 and supplemental figures. 
+-> "Integration Pipeline" to find the code used to generate SISKA and the extended human atlas.
 
-Go to https://susztaklab.com/SISKA/ and select your species and gene of interest (beta).
+-> "Figures" to browse custom codes used to generate F1-F6 and supplemental figures. 
 
-Go to https://susztaklab.com/rhge/ to compare gene expression coordination of cellular functions between rodent models and human diseases (beta).
+-> https://susztaklab.com/SISKA/ and select your species and gene of interest (beta).
 
-Go to https://github.com/kloetzerka/CellSpectra to learn about our R package CellSpectra 
+-> https://susztaklab.com/rhge/ to compare gene expression coordination of cellular functions between rodent models and human diseases (beta).
+
+-> https://github.com/kloetzerka/CellSpectra to learn about our R package CellSpectra 
 
 ## Input datasets 
 
