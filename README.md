@@ -33,31 +33,32 @@ Please check the original publications and respective data repositories for addi
 ### Preprocessing
 
 For our basic example script of intial processing see:
+
 SoupX_Doubletfinder_Basic.R
 
-1.) Changing to human gene symbols based on an Ensembl gene list
+#### 1.) Changing to human gene symbols based on an Ensembl gene list
 
 Script used to convert to Seurat objects to Human 1-to-1 orthologous genes:
 Seuratobject_change_gene_symbols.R
 
-2.) Converting to anndata objects
+#### 2.) Converting to anndata objects
 
 Code and environment information used to convert objects to anndata:
 convert_seurat_anndata.R
 
-3.) Merging and Preprocessing of anndata objects + pre-scVI processing (HVG selection, etc.)
+#### 3.) Merging and Preprocessing of anndata objects + pre-scVI processing (HVG selection, etc.)
 
 Github_Preprocessing_1_Merge.ipynb
 
-4.) Integration Run 1
+#### 4.) Integration Run 1
 
 Github_Preprocessing_2_Integration1.ipynb
 
-5.) Cleaning
+#### 5.) Cleaning
 
 Github_Preprocessing_3_Cleaning1.ipynb
 
-6.) Preparing Integration Run 2 (final)
+#### 6.) Preparing Integration Run 2 (final)
 
 Github_Preprocessing_4_HVG.ipynb
 
