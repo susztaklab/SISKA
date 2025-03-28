@@ -50,6 +50,9 @@ convert_seurat_anndata.R
 
 Github_Preprocessing_1_Merge.ipynb
 
+You can get a raw version after merging to reproduce the integtration pipeline here: 
+https://zenodo.org/records/15021683
+
 #### 4.) Integration Run 1
 
 Github_Preprocessing_2_Integration1.ipynb
